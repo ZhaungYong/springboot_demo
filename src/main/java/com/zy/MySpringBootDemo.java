@@ -1,4 +1,4 @@
-package com.bsoft;
+package com.zy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

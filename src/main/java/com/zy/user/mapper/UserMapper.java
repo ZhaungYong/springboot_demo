@@ -1,6 +1,6 @@
-package com.bsoft.mapper;
+package com.zy.user.mapper;
 
-import com.bsoft.pojo.User;
+import com.zy.user.pojo.User;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

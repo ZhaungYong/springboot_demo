@@ -1,8 +1,8 @@
-package com.bsoft.service.impl;
+package com.zy.user.service.impl;
 
-import com.bsoft.mapper.UserMapper;
-import com.bsoft.pojo.User;
-import com.bsoft.service.UserService;
+import com.zy.user.mapper.UserMapper;
+import com.zy.user.pojo.User;
+import com.zy.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

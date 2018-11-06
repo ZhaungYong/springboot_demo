@@ -1,6 +1,6 @@
-package com.bsoft.service;
+package com.zy.user.service;
 
-import com.bsoft.pojo.User;
+import com.zy.user.pojo.User;
 
 import java.util.List;
 
